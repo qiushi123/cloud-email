@@ -1,0 +1,2 @@
+<!--pages/index/index.wxml-->
+<button bindtap="sendEmail">发送邮件</button>
